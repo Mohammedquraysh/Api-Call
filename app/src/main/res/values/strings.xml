@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeekNineAPI</string>
+    <string name="search">Search</string>
+    <string name="create">create</string>
+    <string name="share">share</string>
+    <string name="comment">comment</string>
+    <string name="like">like</string>
+    <string name="title">Title</string>
+    <string name="post_email">Post Email</string>
+    <string name="id">id</string>
+    <string name="textview">TextView</string>
+</resources>
